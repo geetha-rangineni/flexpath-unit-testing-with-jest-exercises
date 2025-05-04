@@ -22,6 +22,7 @@ What are the benefits of using automated tests in this case?
 
 
 
+
 Exercise 3:
 
 Question: 
@@ -87,6 +88,8 @@ Question:
 Explain the differences between strict and loose equality checks in Jest, 
 and demonstrate with examples using toBe, toEqual, and toStrictEqual for 
 objects.
+
+
 
 
 

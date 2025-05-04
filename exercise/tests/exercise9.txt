@@ -1,0 +1,10 @@
+Exercise 9:
+
+Question: 
+
+Explain the differences between strict and loose equality checks in Jest, 
+and demonstrate with examples using toBe, toEqual, and toStrictEqual for 
+objects.
+
+
+In Jest, different matchers (toBe, toEqual, toStrictEqual) are used to compare values, each with different levels of strictness:

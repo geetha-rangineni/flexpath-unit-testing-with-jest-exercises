@@ -1,0 +1,18 @@
+
+Exercise 17:
+
+Question: 
+
+Discuss the importance of code coverage thresholds and how they 
+enforce code quality in a project like bookManager.js.
+
+Answer:
+
+Code coverage thresholds set minimum acceptable coverage levels, 
+encouraging developers to write sufficient tests. 
+
+They prevent code with inadequate testing from being merged, 
+promoting high code quality and ensuring reliability. 
+
+In bookManager.js, setting thresholds ensures that key functionalities are 
+thoroughly tested.

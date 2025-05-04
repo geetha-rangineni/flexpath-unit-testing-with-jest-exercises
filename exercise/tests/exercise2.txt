@@ -1,0 +1,19 @@
+
+Exercise 2:
+
+Question: 
+
+Describe the differences between manual testing and automated unit testing for 
+the `findBooksByAuthor` function. 
+
+What are the benefits of using automated tests in this case?
+
+
+Answer:
+
+Manual Testing: 
+This involves running the program, manually calling findBooksByAuthor with different inputs, and checking the results by hand.
+ It's slow, prone to mistakes, and needs to be redone whenever the code changes.
+
+Automated Unit Testing:
+ You create a test script (e.g. with Jest) that automatically runs findBooksByAuthor with various inputs and verifies the results. These tests are quick, repeatable, and can run every time the code is updated.

@@ -1,0 +1,14 @@
+Exercise 16:
+
+Question: 
+
+Explain how code coverage metrics like statement, branch, function, 
+and line coverage help in assessing code quality for bookManager.js.
+
+ANswer:
+ Statement Coverage: Ensures that all executable statements are tested.
+ Branch Coverage: Checks that every possible path (if/else) has been executed.
+ Function Coverage: Verifies that all functions have been called in tests.
+ Line Coverage: Similar to statement coverage but measures actual lines executed.
+ These metrics help identify untested parts of the code, ensuring that 
+critical functionality is verified and reducing the risk of bugs.
